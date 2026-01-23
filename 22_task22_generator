@@ -1,0 +1,8 @@
+# Генераторы, пример кода
+
+a = [3 * x for x in [10,12,17]]
+
+print (a)
+
+b = [10 * x for x in range (5)]
+print (b)
